@@ -18,11 +18,11 @@ https://drive.google.com/file/d/15l4AggRWBjUMaW5UTXqed-buXIAVz0Tk/view?usp=shari
 <b>App Screenshots:</b>
 
 <p align="center">
-<img align="left" width="200" height="387" src="AppScreenshots/sc_01.jpg">
+<img align="left" width="200" height="393" src="AppScreenshots/sc_01.jpg">
 
-<img align="left" width="200" height="387" src="AppScreenshots/sc_02.jpg">
+<img align="left" width="200" height="393" src="AppScreenshots/sc_02.jpg">
   
-<img align="left" width="200" height="387" src="AppScreenshots/sc_03.jpg">
+<img align="left" width="200" height="393" src="AppScreenshots/sc_03.jpg">
 </p>
 <br>
 <br>
@@ -39,7 +39,7 @@ https://drive.google.com/file/d/15l4AggRWBjUMaW5UTXqed-buXIAVz0Tk/view?usp=shari
 <br>
 
 <p align="center">
-<img align="left" width="200" height="387" src="AppScreenshots/sc_04.jpg">
-<img align="left" width="200" height="387" src="AppScreenshots/sc_05.jpg">
-<img align="left" width="200" height="387" src="AppScreenshots/sc_06.jpg">
+<img align="left" width="200" height="393" src="AppScreenshots/sc_04.jpg">
+<img align="left" width="200" height="393" src="AppScreenshots/sc_05.jpg">
+<img align="left" width="200" height="393" src="AppScreenshots/sc_06.jpg">
 </p>
