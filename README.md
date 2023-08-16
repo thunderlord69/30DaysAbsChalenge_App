@@ -3,14 +3,13 @@
 
 <b>Game Desctiption:</b>
 
-Merge Plants is simple android game wiht  a thrilling journey of merging, evolving, and battling with plants. Your objective is to create the strongest and most powerful plants by merging them, unlocking new ones, and evolving them to their full potential.
-As you progress through the game, you'll encounter various enemies that pose a threat to your plants. You'll need to strategize and use your plant's unique abilities to defeat these foes and emerge victorious.
-Merge Plants offers a unique and immersive gaming experience with its stunning visuals and engaging gameplay. With over 10 of plants to collect and evolve, you'll never run out of things to do in this game. Whether you're a casual player or a hardcore gamer, Merge Plants is the perfect game for you.
+30 Days challenge app is app for workout plan for 30 days for core strength. It is follow along workout app - you just open it and do evertything like is on animation. Check out video of app for more.
 
 <b>Tehnologies used in this project:</b>
 
  - Unity game engine
  - C#
+ - Adobe Photoshop
 
 <b>Video of app usage:</b>
 
